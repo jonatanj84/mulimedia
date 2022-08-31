@@ -1,0 +1,14 @@
+.imagen{
+    background-color: rgb(225, 236, 223);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+
+}
+
+img{
+    width: 300px;
+    margin: 5px;
+}
+
